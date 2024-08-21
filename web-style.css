@@ -1,0 +1,64 @@
+*{ 
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
+
+body{
+    background: linear-gradient(#061b41, #304e86, #b2c7ee);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.container{
+    background-color:rgb(202, 209, 227);
+    border-style: ridge;
+    border-color: #e3e1ed;
+    border-width: 0.5cm;
+    padding: 30px;
+    margin: 30px;
+    border-radius: 100px;
+}
+
+#word {
+    font-size: 30px;
+}
+
+.choices-button {
+    background-color: #fbfbfc;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+    width: 80%;
+    cursor: pointer;
+}
+
+.choices-button:hover {
+    background-color: #2ca271;
+}
+
+#start-btn:hover {
+    background-color: #2ca271;
+}
+
+
+#difficulty-section {
+    margin: 20px
+}
+
+#difficulty{
+    padding: 10px
+}
+
+#start-btn {
+    font-size: 15px;
+    margin: 10px;
+    padding: 10px;
+    background-color: #fbfbfc;
+    border-radius: 10px;
+}
+

@@ -17,6 +17,13 @@ JavaScript, Python, SQLite, HTML/CSS, NLTK, Flask.
 
 The user interface strives to embody a sophisticated clean look. Calming colours like gradient navy blues and gentle silver/whites are chosen to optimise the platform for it's purpose - studying. Soothing, slow, and miniature snowflake falling animations are used to keep the students focus and stop them from mentally wandering off. The font is sharp and chosen to harness a polished web page and avoid a cluttered look. Hovering the mouse over any of the buttons gets them to change colour to green, this is done as a user guidance mechanism and to enhance the interactivity of the platform. 
 
+### What are the most relevant errors to be aware of? Also including new things I learnt.
+1. Circular imports --> two modules trying to import each other.
+2. When working with NLTK for the first time, you need certain downloads / certificates depending on what is already installed.
+3. The data from PrepScholar needs a little bit of pruning first so you can easily work with it.
+4. If you add extra columns to the csv file, make sure the database file recieves the updates to reflect this.
+5. For help with flask refer to this guide --> https://python-adv-web-apps.readthedocs.io/en/latest/flask.html
+
 
 <img width="1440" alt="Screenshot 2024-08-21 at 14 57 12" src="https://github.com/user-attachments/assets/de2021c9-251c-4549-8ebf-9962192d0529">
 <img width="1440" alt="Screenshot 2024-08-21 at 14 57 25" src="https://github.com/user-attachments/assets/b1c8b098-156c-48d1-acb1-1b736a9e70d5">

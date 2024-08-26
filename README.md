@@ -11,7 +11,7 @@ Looking back when I was studying for the SAT, the apps available were never free
 
 ### What did I use to create this?
 
-JavaScript, Python, SQLite, HTML/CSS, NLTK, Flask.
+JavaScript, Python, SQLite, HTML/CSS, NLTK, Flask. Code is extremely well commented throughout.
 
 ### What is the thought process behind the user interface?
 

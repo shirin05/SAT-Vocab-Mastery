@@ -13,6 +13,10 @@ Looking back when I was studying for the SAT, the apps available were never free
 
 JavaScript, Python, SQLite, HTML/CSS, NLTK, Flask. Code is extremely well commented throughout.
 
+#### Usage:
+
+python3 app.py in terminal
+
 ### What is the thought process behind the user interface?
 
 The user interface strives to embody a sophisticated clean look. Calming colours like gradient navy blues and gentle silver/whites are chosen to optimise the platform for it's purpose - studying. Soothing, slow, and miniature snowflake falling animations are used to keep the students focus and stop them from mentally wandering off. The font is sharp and chosen to harness a polished web page and avoid a cluttered look. Hovering the mouse over any of the buttons gets them to change colour to green, this is done as a user guidance mechanism and to enhance the interactivity of the platform. 
